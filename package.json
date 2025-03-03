@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",
+    "framer-motion": "^12.4.7",
     "mongodb": "^6.14.0",
     "next": "15.2.0",
     "next-auth": "^4.24.11",
